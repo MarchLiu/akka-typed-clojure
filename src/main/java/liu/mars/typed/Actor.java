@@ -1,4 +1,4 @@
-package liu.mars;
+package liu.mars.typed;
 
 import akka.actor.typed.Behavior;
 import akka.actor.typed.javadsl.AbstractBehavior;

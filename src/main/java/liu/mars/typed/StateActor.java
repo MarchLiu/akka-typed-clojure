@@ -1,4 +1,4 @@
-package liu.mars;
+package liu.mars.typed;
 
 import akka.actor.typed.Behavior;
 import akka.actor.typed.javadsl.AbstractBehavior;
@@ -6,7 +6,6 @@ import akka.actor.typed.javadsl.ActorContext;
 import akka.actor.typed.javadsl.Behaviors;
 import akka.actor.typed.javadsl.Receive;
 import clojure.lang.IFn;
-import clojure.lang.Obj;
 
 import java.util.Map;
 
